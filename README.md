@@ -111,12 +111,29 @@ Developed a branded campaign recap framework and built realistic performance mod
 
 **FaZe_Case_Study_Deck.pptx** – Complete presentation with all 3 task analyses, visualizations, and strategic recommendations
 
-**dataset.xlsx** – Self-generated dataset with:
-- 50+ creator profiles with 25+ metrics per creator (all data created from scratch)
-- Composite scoring model and weighted calculations
-- Campaign performance data across 3 platforms (modeled from benchmarks)
-- Week-by-week progression and platform breakdowns
-- All underlying formulas and assumptions visible in spreadsheet
+**dataset.xlsx** – Self-generated dataset with 10 worksheets containing:
+
+1. **creator_overview** – 50+ creators with 20 metrics each: follower counts, engagement rates, growth rates, brand safety scores, FaZe fit scores, audience overlap, monetization potential across TikTok, YouTube, Twitch, Instagram
+
+2. **audience_gender** – Gender demographic breakdown (male, female, non-binary) for each creator
+
+3. **audience_age** – Age bucket distribution (13-17, 18-24, 25-34, 35-44, 45+) for creator audiences
+
+4. **audience_geo** – Geographic distribution of creator audiences by country
+
+5. **campaign_posts** – 14 individual campaign posts with platform, date, impressions, views, engagement metrics, clicks, conversions, and costs
+
+6. **summary_by_creator** – Aggregated campaign performance by creator (total impressions, views, conversions, cost)
+
+7. **summary_by_platform** – Campaign performance breakdown by platform (TikTok, YouTube Shorts, Twitch)
+
+8. **weekly_growth** – Week-by-week follower growth tracking across platforms (16 weeks of data)
+
+9. **platform_funnel** – Conversion funnel by platform (impressions → views → engagements → clicks → signups)
+
+10. **blinkfire_media_value** – Brand safety metrics including logo visibility, brand exposures, and earned media value calculations
+
+All data created from scratch using industry benchmarks and realistic engagement patterns. Contains 20+ formulas and calculations for scoring, KPI computation, and performance analysis.
 
 **Glossary_Faze_Case_Study.pdf** – Complete metric definitions and calculation formulas for transparency
 
